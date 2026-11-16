@@ -21,7 +21,6 @@ I enjoy working across frontend and backend development, experimenting with new 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
