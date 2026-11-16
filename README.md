@@ -159,16 +159,6 @@ Worked on graphic design-related tasks and gained practical exposure to visual c
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adarsh4531&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh4531&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Adarsh4531&theme=tokyonight&hide_border=true)
-
----
-
 ## 🤝 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Adarsh4531-181717?logo=github)](https://github.com/Adarsh4531)
